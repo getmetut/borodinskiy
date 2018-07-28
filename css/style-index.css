@@ -1,0 +1,78 @@
+body {
+font-family: "PT Sans Narrow";
+font-weight: bold;
+text-transform: uppercase;
+}
+
+.map_mask {
+  background-color: rgb(171, 169, 167);
+  left: 897px;
+  top: 585px;
+  width: 767px;
+  height: 561px;
+  z-index: 89;
+}
+.Shape {
+  background-color: rgb(247, 244, 241);
+  left: 1585px;
+  top: 405px;
+  width: 30px;
+  height: 29px;
+  z-index: 69;
+}
+.site-navigation {
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  line-height: 1.25;
+}
+h3 {
+  font-size: 30px;
+  color: rgb(247, 244, 241);
+  line-height: 1.4;
+}
+a {
+    text-decoration: none;
+}
+.container {
+  /* background-color: grey;/? */
+  background: url(../img/jpg/tint.jpg);
+  /* background-image: url("..\img\jpg\tint.jpg"); */
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+footer {
+  color: white;
+  background-color: #222222;
+}
+header {
+  background-color: black;
+}
+.login-link {
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  line-height: 1.25;
+}
+.features-item p {
+  font-size: 14px;
+  color: rgb(247, 244, 241);
+  line-height: 1.714;
+}
+h2 {
+  font-size: 30px;
+  color: black;
+  line-height: 42px;
+}
+p .news-item {
+  font-size: 14px;
+  color: black;
+  line-height: 24px;
+}
+time {
+  text-transform: lowercase;
+}
+.button {
+  font-size: 14px;
+  color: white;
+  line-height: 24px;
+}
